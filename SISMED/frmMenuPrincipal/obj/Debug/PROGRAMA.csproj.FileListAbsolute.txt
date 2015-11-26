@@ -1,0 +1,140 @@
+C:\Users\Cristian Ippolito\documents\visual studio 2012\Projects\SISMED\frmMenuPrincipal\bin\Debug\frmMenuPrincipal.exe.config
+C:\Users\Cristian Ippolito\documents\visual studio 2012\Projects\SISMED\frmMenuPrincipal\bin\Debug\frmMenuPrincipal.exe
+C:\Users\Cristian Ippolito\documents\visual studio 2012\Projects\SISMED\frmMenuPrincipal\bin\Debug\frmMenuPrincipal.pdb
+C:\Users\Cristian Ippolito\documents\visual studio 2012\Projects\SISMED\frmMenuPrincipal\bin\Debug\MetroFramework.Design.dll
+C:\Users\Cristian Ippolito\documents\visual studio 2012\Projects\SISMED\frmMenuPrincipal\bin\Debug\MetroFramework.dll
+C:\Users\Cristian Ippolito\documents\visual studio 2012\Projects\SISMED\frmMenuPrincipal\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Cristian Ippolito\documents\visual studio 2012\Projects\SISMED\frmMenuPrincipal\bin\Debug\MySql.Data.dll
+C:\Users\Cristian Ippolito\documents\visual studio 2012\Projects\SISMED\frmMenuPrincipal\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\Cristian Ippolito\documents\visual studio 2012\Projects\SISMED\frmMenuPrincipal\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Cristian Ippolito\documents\visual studio 2012\Projects\SISMED\frmMenuPrincipal\bin\Debug\MySql.Web.dll
+C:\Users\Cristian Ippolito\documents\visual studio 2012\Projects\SISMED\frmMenuPrincipal\obj\Debug\PROGRAMA.csprojResolveAssemblyReference.cache
+C:\Users\Cristian Ippolito\documents\visual studio 2012\Projects\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmClasesCRUD.resources
+C:\Users\Cristian Ippolito\documents\visual studio 2012\Projects\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmMenuPrincipal.resources
+C:\Users\Cristian Ippolito\documents\visual studio 2012\Projects\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.Properties.Resources.resources
+C:\Users\Cristian Ippolito\documents\visual studio 2012\Projects\SISMED\frmMenuPrincipal\obj\Debug\PROGRAMA.csproj.GenerateResource.Cache
+C:\Users\Cristian Ippolito\documents\visual studio 2012\Projects\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.exe
+C:\Users\Cristian Ippolito\documents\visual studio 2012\Projects\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.pdb
+C:\Users\Cristian Ippolito\documents\visual studio 2012\Projects\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmMarcasCRUD.resources
+C:\Users\Liseth\Documents\Visual Studio 2015\Projects\SISMED\frmMenuPrincipal\bin\Debug\frmMenuPrincipal.exe.config
+C:\Users\Liseth\Documents\Visual Studio 2015\Projects\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.exe
+C:\Users\Liseth\Documents\Visual Studio 2015\Projects\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.pdb
+C:\Users\Liseth\Documents\Visual Studio 2015\Projects\SISMED\frmMenuPrincipal\bin\Debug\frmMenuPrincipal.exe
+C:\Users\Liseth\Documents\Visual Studio 2015\Projects\SISMED\frmMenuPrincipal\bin\Debug\frmMenuPrincipal.pdb
+C:\Users\Liseth\Documents\Visual Studio 2015\Projects\SISMED\frmMenuPrincipal\bin\Debug\MySql.Data.dll
+C:\Users\Liseth\Documents\Visual Studio 2015\Projects\SISMED\frmMenuPrincipal\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\Liseth\Documents\Visual Studio 2015\Projects\SISMED\frmMenuPrincipal\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Liseth\Documents\Visual Studio 2015\Projects\SISMED\frmMenuPrincipal\bin\Debug\MySql.Web.dll
+C:\Users\Liseth\Documents\Visual Studio 2015\Projects\SISMED\frmMenuPrincipal\obj\Debug\PROGRAMA.csprojResolveAssemblyReference.cache
+C:\Users\Liseth\Documents\Visual Studio 2015\Projects\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmClasesCRUD.resources
+C:\Users\Liseth\Documents\Visual Studio 2015\Projects\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmMarcasCRUD.resources
+C:\Users\Liseth\Documents\Visual Studio 2015\Projects\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmMenuPrincipal.resources
+C:\Users\Liseth\Documents\Visual Studio 2015\Projects\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.Properties.Resources.resources
+C:\Users\Liseth\Documents\Visual Studio 2015\Projects\SISMED\frmMenuPrincipal\obj\Debug\PROGRAMA.csproj.GenerateResource.Cache
+C:\Users\Liseth\Documents\Visual Studio 2015\Projects\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmMedidasCRUD.resources
+C:\Users\Liseth\Documents\Visual Studio 2015\Projects\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmPresentacionesCRUD.resources
+C:\Users\Liseth\Documents\Visual Studio 2015\Projects\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmMedicamentos.resources
+C:\Users\Liseth\Documents\Visual Studio 2015\Projects\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmRolesCRUD.resources
+C:\Users\Liseth\Documents\Visual Studio 2015\Projects\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmParentescosCRUD.resources
+C:\Users\Liseth\Documents\Visual Studio 2015\Projects\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmTiposVinculacionCRUD.resources
+C:\Users\Liseth\Documents\Visual Studio 2015\Projects\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCentrosCRUD.resources
+C:\Users\Liseth\Documents\Visual Studio 2015\Projects\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmGenerosCRUD.resources
+C:\Users\Liseth\Documents\Visual Studio 2015\Projects\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmLetrasCRUD.resources
+C:\Users\Cristian Ippolito\Desktop\SISMED\frmMenuPrincipal\bin\Debug\frmMenuPrincipal.exe.config
+C:\Users\Cristian Ippolito\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.exe
+C:\Users\Cristian Ippolito\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.pdb
+C:\Users\Cristian Ippolito\Desktop\SISMED\frmMenuPrincipal\bin\Debug\frmMenuPrincipal.exe
+C:\Users\Cristian Ippolito\Desktop\SISMED\frmMenuPrincipal\bin\Debug\frmMenuPrincipal.pdb
+C:\Users\Cristian Ippolito\Desktop\SISMED\frmMenuPrincipal\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\Cristian Ippolito\Desktop\SISMED\frmMenuPrincipal\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Cristian Ippolito\Desktop\SISMED\frmMenuPrincipal\obj\Debug\PROGRAMA.csprojResolveAssemblyReference.cache
+C:\Users\Cristian Ippolito\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDCanales.resources
+C:\Users\Cristian Ippolito\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDClases.resources
+C:\Users\Cristian Ippolito\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDConsultorios.resources
+C:\Users\Cristian Ippolito\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDMarcas.resources
+C:\Users\Cristian Ippolito\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDNombreGenerico.resources
+C:\Users\Cristian Ippolito\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDNovedades.resources
+C:\Users\Cristian Ippolito\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDTipificaciones.resources
+C:\Users\Cristian Ippolito\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDTipoCitas.resources
+C:\Users\Cristian Ippolito\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmMedicamentos.resources
+C:\Users\Cristian Ippolito\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmMenuPrincipal.resources
+C:\Users\Cristian Ippolito\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.Properties.Resources.resources
+C:\Users\Cristian Ippolito\Desktop\SISMED\frmMenuPrincipal\obj\Debug\PROGRAMA.csproj.GenerateResource.Cache
+C:\Users\Cristian Ippolito\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDCentros.resources
+C:\Users\Cristian Ippolito\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDGeneros.resources
+C:\Users\Cristian Ippolito\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDLetras.resources
+C:\Users\Cristian Ippolito\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDMedidas.resources
+C:\Users\Cristian Ippolito\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDParentescos.resources
+C:\Users\Cristian Ippolito\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDPresentaciones.resources
+C:\Users\Cristian Ippolito\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDRoles.resources
+C:\Users\Cristian Ippolito\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDTiposVinculacion.resources
+C:\Users\Liseth\Desktop\SISMED\frmMenuPrincipal\bin\Debug\frmMenuPrincipal.exe.config
+C:\Users\Liseth\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.exe
+C:\Users\Liseth\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.pdb
+C:\Users\Liseth\Desktop\SISMED\frmMenuPrincipal\bin\Debug\frmMenuPrincipal.exe
+C:\Users\Liseth\Desktop\SISMED\frmMenuPrincipal\bin\Debug\frmMenuPrincipal.pdb
+C:\Users\Liseth\Desktop\SISMED\frmMenuPrincipal\bin\Debug\MySql.Data.dll
+C:\Users\Liseth\Desktop\SISMED\frmMenuPrincipal\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\Liseth\Desktop\SISMED\frmMenuPrincipal\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Liseth\Desktop\SISMED\frmMenuPrincipal\bin\Debug\MySql.Web.dll
+C:\Users\Liseth\Desktop\SISMED\frmMenuPrincipal\obj\Debug\PROGRAMA.csprojResolveAssemblyReference.cache
+C:\Users\Liseth\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDCentros.resources
+C:\Users\Liseth\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDCanales.resources
+C:\Users\Liseth\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDClases.resources
+C:\Users\Liseth\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDConsultorios.resources
+C:\Users\Liseth\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDMarcas.resources
+C:\Users\Liseth\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDNombreGenerico.resources
+C:\Users\Liseth\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDTipificaciones.resources
+C:\Users\Liseth\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDTipoCitas.resources
+C:\Users\Liseth\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDLetras.resources
+C:\Users\Liseth\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmMedicamentos.resources
+C:\Users\Liseth\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDMedidas.resources
+C:\Users\Liseth\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmMenuPrincipal.resources
+C:\Users\Liseth\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDParentescos.resources
+C:\Users\Liseth\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDPresentaciones.resources
+C:\Users\Liseth\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDRoles.resources
+C:\Users\Liseth\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDTiposVinculacion.resources
+C:\Users\Liseth\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDUsuarios.resources
+C:\Users\Liseth\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.Properties.Resources.resources
+C:\Users\Liseth\Desktop\SISMED\frmMenuPrincipal\obj\Debug\PROGRAMA.csproj.GenerateResource.Cache
+C:\Users\Liseth\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDAgendarCita.resources
+C:\Users\Liseth\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDEstados.resources
+C:\Users\Liseth\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDEspecialidades.resources
+C:\Users\Liseth\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDInfoMedico.resources
+C:\Users\Liseth\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDInfoBeneficiarios.resources
+C:\Users\Liseth\Desktop\SISMED\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDInfoFuncionarios.resources
+C:\Users\Liseth\OneDrive\WindowsForms\frmMenuPrincipal\bin\Debug\frmMenuPrincipal.exe.config
+C:\Users\Liseth\OneDrive\WindowsForms\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.exe
+C:\Users\Liseth\OneDrive\WindowsForms\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.pdb
+C:\Users\Liseth\OneDrive\WindowsForms\frmMenuPrincipal\bin\Debug\frmMenuPrincipal.exe
+C:\Users\Liseth\OneDrive\WindowsForms\frmMenuPrincipal\bin\Debug\frmMenuPrincipal.pdb
+C:\Users\Liseth\OneDrive\WindowsForms\frmMenuPrincipal\bin\Debug\MySql.Data.dll
+C:\Users\Liseth\OneDrive\WindowsForms\frmMenuPrincipal\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\Liseth\OneDrive\WindowsForms\frmMenuPrincipal\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Liseth\OneDrive\WindowsForms\frmMenuPrincipal\bin\Debug\MySql.Web.dll
+C:\Users\Liseth\OneDrive\WindowsForms\frmMenuPrincipal\obj\Debug\PROGRAMA.csprojResolveAssemblyReference.cache
+C:\Users\Liseth\OneDrive\WindowsForms\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDAgendarCita.resources
+C:\Users\Liseth\OneDrive\WindowsForms\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDCentros.resources
+C:\Users\Liseth\OneDrive\WindowsForms\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDCanales.resources
+C:\Users\Liseth\OneDrive\WindowsForms\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDClases.resources
+C:\Users\Liseth\OneDrive\WindowsForms\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDConsultorios.resources
+C:\Users\Liseth\OneDrive\WindowsForms\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDEspecialidades.resources
+C:\Users\Liseth\OneDrive\WindowsForms\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDInfoBeneficiarios.resources
+C:\Users\Liseth\OneDrive\WindowsForms\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDInfoFuncionarios.resources
+C:\Users\Liseth\OneDrive\WindowsForms\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDMarcas.resources
+C:\Users\Liseth\OneDrive\WindowsForms\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDInfoMedico.resources
+C:\Users\Liseth\OneDrive\WindowsForms\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDNombreGenerico.resources
+C:\Users\Liseth\OneDrive\WindowsForms\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDEstados.resources
+C:\Users\Liseth\OneDrive\WindowsForms\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDTipificaciones.resources
+C:\Users\Liseth\OneDrive\WindowsForms\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDTipoCitas.resources
+C:\Users\Liseth\OneDrive\WindowsForms\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDLetras.resources
+C:\Users\Liseth\OneDrive\WindowsForms\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmMedicamentos.resources
+C:\Users\Liseth\OneDrive\WindowsForms\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDMedidas.resources
+C:\Users\Liseth\OneDrive\WindowsForms\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmMenuPrincipal.resources
+C:\Users\Liseth\OneDrive\WindowsForms\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDParentescos.resources
+C:\Users\Liseth\OneDrive\WindowsForms\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDPresentaciones.resources
+C:\Users\Liseth\OneDrive\WindowsForms\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDRoles.resources
+C:\Users\Liseth\OneDrive\WindowsForms\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDTiposVinculacion.resources
+C:\Users\Liseth\OneDrive\WindowsForms\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.frmCRUDUsuarios.resources
+C:\Users\Liseth\OneDrive\WindowsForms\frmMenuPrincipal\obj\Debug\frmMenuPrincipal.Properties.Resources.resources
+C:\Users\Liseth\OneDrive\WindowsForms\frmMenuPrincipal\obj\Debug\PROGRAMA.csproj.GenerateResource.Cache

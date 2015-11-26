@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9E67A802-D422-48AC-AB78-6797152E80B0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>frmMenuPrincipal</RootNamespace>
+    <AssemblyName>frmMenuPrincipal</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MetroFramework">
+      <HintPath>..\..\..\..\REFERENCIAS .NET\DLL Metro Framework\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design">
+      <HintPath>..\..\..\..\REFERENCIAS .NET\DLL Metro Framework\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts">
+      <HintPath>..\..\..\..\REFERENCIAS .NET\DLL Metro Framework\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.9.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\REFERENCIAS .NET\mysql-connector-net-6.8.6-noinstall\v4.5\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data.Entity.EF5, Version=6.9.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\REFERENCIAS .NET\mysql-connector-net-6.8.6-noinstall\v4.5\MySql.Data.Entity.EF5.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data.Entity.EF6, Version=6.9.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\REFERENCIAS .NET\mysql-connector-net-6.8.6-noinstall\v4.5\MySql.Data.Entity.EF6.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Web, Version=6.9.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\REFERENCIAS .NET\mysql-connector-net-6.8.6-noinstall\v4.5\MySql.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="clDatosMySQL.cs" />
+    <Compile Include="frmCRUDAgendarCita.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCRUDAgendarCita.Designer.cs">
+      <DependentUpon>frmCRUDAgendarCita.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCRUDCentros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCRUDCentros.Designer.cs">
+      <DependentUpon>frmCRUDCentros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCRUDCanales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCRUDCanales.Designer.cs">
+      <DependentUpon>frmCRUDCanales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCRUDClases.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCRUDClases.Designer.cs">
+      <DependentUpon>frmCRUDClases.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCRUDConsultorios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCRUDConsultorios.Designer.cs">
+      <DependentUpon>frmCRUDConsultorios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCRUDEspecialidades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCRUDEspecialidades.Designer.cs">
+      <DependentUpon>frmCRUDEspecialidades.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCRUDInfoBeneficiarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCRUDInfoBeneficiarios.Designer.cs">
+      <DependentUpon>frmCRUDInfoBeneficiarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCRUDInfoFuncionarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCRUDInfoFuncionarios.Designer.cs">
+      <DependentUpon>frmCRUDInfoFuncionarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCRUDMarcas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCRUDMarcas.Designer.cs">
+      <DependentUpon>frmCRUDMarcas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCRUDInfoMedico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCRUDInfoMedico.Designer.cs">
+      <DependentUpon>frmCRUDInfoMedico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCRUDNombreGenerico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCRUDNombreGenerico.Designer.cs">
+      <DependentUpon>frmCRUDNombreGenerico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCRUDEstados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCRUDEstados.Designer.cs">
+      <DependentUpon>frmCRUDEstados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCRUDTipificaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCRUDTipificaciones.Designer.cs">
+      <DependentUpon>frmCRUDTipificaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCRUDTipoCitas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCRUDTipoCitas.Designer.cs">
+      <DependentUpon>frmCRUDTipoCitas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCRUDLetras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCRUDLetras.Designer.cs">
+      <DependentUpon>frmCRUDLetras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCRUDMedicamentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCRUDMedicamentos.Designer.cs">
+      <DependentUpon>frmCRUDMedicamentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCRUDMedidas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCRUDMedidas.Designer.cs">
+      <DependentUpon>frmCRUDMedidas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMenuPrincipal.Designer.cs">
+      <DependentUpon>frmMenuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCRUDParentescos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCRUDParentescos.Designer.cs">
+      <DependentUpon>frmCRUDParentescos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCRUDPresentaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCRUDPresentaciones.Designer.cs">
+      <DependentUpon>frmCRUDPresentaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCRUDRoles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCRUDRoles.Designer.cs">
+      <DependentUpon>frmCRUDRoles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCRUDTiposVinculacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCRUDTiposVinculacion.Designer.cs">
+      <DependentUpon>frmCRUDTiposVinculacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCRUDUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCRUDUsuarios.Designer.cs">
+      <DependentUpon>frmCRUDUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmCRUDAgendarCita.resx">
+      <DependentUpon>frmCRUDAgendarCita.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCRUDCentros.resx">
+      <DependentUpon>frmCRUDCentros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCRUDCanales.resx">
+      <DependentUpon>frmCRUDCanales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCRUDClases.resx">
+      <DependentUpon>frmCRUDClases.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCRUDConsultorios.resx">
+      <DependentUpon>frmCRUDConsultorios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCRUDEspecialidades.resx">
+      <DependentUpon>frmCRUDEspecialidades.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCRUDInfoBeneficiarios.resx">
+      <DependentUpon>frmCRUDInfoBeneficiarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCRUDInfoFuncionarios.resx">
+      <DependentUpon>frmCRUDInfoFuncionarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCRUDMarcas.resx">
+      <DependentUpon>frmCRUDMarcas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCRUDInfoMedico.resx">
+      <DependentUpon>frmCRUDInfoMedico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCRUDNombreGenerico.resx">
+      <DependentUpon>frmCRUDNombreGenerico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCRUDEstados.resx">
+      <DependentUpon>frmCRUDEstados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCRUDTipificaciones.resx">
+      <DependentUpon>frmCRUDTipificaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCRUDTipoCitas.resx">
+      <DependentUpon>frmCRUDTipoCitas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCRUDLetras.resx">
+      <DependentUpon>frmCRUDLetras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCRUDMedicamentos.resx">
+      <DependentUpon>frmCRUDMedicamentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCRUDMedidas.resx">
+      <DependentUpon>frmCRUDMedidas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMenuPrincipal.resx">
+      <DependentUpon>frmMenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCRUDParentescos.resx">
+      <DependentUpon>frmCRUDParentescos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCRUDPresentaciones.resx">
+      <DependentUpon>frmCRUDPresentaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCRUDRoles.resx">
+      <DependentUpon>frmCRUDRoles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCRUDTiposVinculacion.resx">
+      <DependentUpon>frmCRUDTiposVinculacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCRUDUsuarios.resx">
+      <DependentUpon>frmCRUDUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
